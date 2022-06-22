@@ -4,7 +4,7 @@
 imutils == 0.5.3
 
 # Controlador/color_tracking.py: 6
-numpy == 1.18.5
+numpy == 1.22.0
 
 # Controlador/color_tracking.py: 8
 opencv_python == 4.3.0.36
